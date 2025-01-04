@@ -8,7 +8,7 @@ This folder contains 3 files and 1 folder
 - Slide
 - and source code folder
 
-> since we split original dataset into many parts, we only have representative file of each step in source code folder. Other files are identical but change 'year' to extract original data part by part.
+> Since we split original dataset into many parts, we only have representative file of each step in source code folder. Other files are identical but change 'year' to extract original data part by part.
 
 ## 2. Full project:
 You can view our full project [here](https://drive.google.com/drive/folders/1mSpafMSHj8uiQzdHuUTROWckeocmMFUN).  
