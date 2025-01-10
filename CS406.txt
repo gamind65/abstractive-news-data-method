@@ -1,0 +1,26 @@
+# Information extraction for Vietnamese invoices 
+CS406 -  Image processing and application
+
+## 1. File and folder organization
+This folder contains 1 file and 2 folders
+- README
+- Docs
+  - Report
+  - Slide
+- Source code folder:
+  - Finetune scripts
+  - Webapp demo scripts (including pre-trained models)
+  - Demo video
+
+## 2. Full project:
+You can view our webapp github page [here](https://github.com/hnthap/invoice_extraction_webapp).  
+This include everything in webapp demo script folder and can be easily set up by following [this](https://github.com/hnthap/invoice_extraction_webapp/blob/main/HOW.md) instruction.
+
+# 3. Team member:
+| Name | Student ID | Email |
+|:---|:---|:---
+| Nguyễn Mai Chí Tấn | 21521414 | tanpesi123@gmail.com |
+| Nguyễn Đắc Cường | 21521902 | 21521902@gm.uit.edu.vn |
+
+
+
