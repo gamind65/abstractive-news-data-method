@@ -9,7 +9,6 @@ This folder contains 1 file and 2 folders
   - Slide
 - Source code folder:
   - Finetune scripts
-  - Webapp demo scripts (including pre-trained models)
   - Demo video
 
 ## 2. Full project:
